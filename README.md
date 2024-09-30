@@ -6,7 +6,7 @@ I am a passionate Computer Science student at Texas Tech University, with a mino
 ## 🛠️ Skills
 
 
-| #Category**              | #Skills**                             |
+| #Category                | #Skills                               |
 |--------------------------|----------------------------------------|
 | **Programming Languages** | ~Python 🐍     ~C 💻     ~JavaScript 🌐        |
 | **Frameworks**            | ~React Native 📱     ~Flutter 🌈            |
