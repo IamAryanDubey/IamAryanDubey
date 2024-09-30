@@ -6,42 +6,23 @@ I am a passionate Computer Science student at Texas Tech University, with a mino
 ## 🛠️ Skills
 
 ### Programming Languages
-- **Python** 🐍
-  - Proficient
-- **C** 💻
-  - Intermediate
-- **JavaScript** 🌐
-  - Proficient
+- **Python** 🐍 | **C** 💻 | **JavaScript** 🌐
 
 ### Frameworks
-- **React Native** 📱
-  - Proficient
-- **Flutter** 🌈
-  - Intermediate
+- **React Native** 📱 | **Flutter** 🌈
 
 ### Web Technologies
-- **HTML** 📄
-  - Proficient
-- **CSS** 🎨
-  - Proficient
+- **HTML** 📄 | **CSS** 🎨
 
 ### Databases
 - **MySQL** 💾
-  - Intermediate
 
 ### Tools & Collaboration
-- **GitHub** 🛠️
-  - Proficient
-- **Microsoft Teams** 💼
-  - Proficient
+- **GitHub** 🛠️ | **Microsoft Teams** 💼
 
 ### Soft Skills
-- **Teamwork** 🤝
-  - Excellent
-- **Problem-solving** 🧩
-  - Excellent
-- **Analytical skills** 📊
-  - Excellent
+- **Teamwork** 🤝 | **Problem-solving** 🧩 | **Analytical skills** 📊
+
 
 ### Skill Ratings
 | Skill                | Proficiency Level | 
