@@ -5,7 +5,7 @@ I am a passionate Computer Science student at Texas Tech University, with a mino
 
 ## 🛠️ Skills
 
-
+----------------------------------------------------------------------------------------------
 | **Category**                | **Skills**                               |
 |--------------------------|----------------------------------------|
 | **Programming Languages** | ~Python 🐍     ~C 💻     ~JavaScript 🌐        |
@@ -14,9 +14,10 @@ I am a passionate Computer Science student at Texas Tech University, with a mino
 | **Databases**             | ~MySQL 💾                              |
 | **Tools & Collaboration** | ~GitHub 🛠️     ~Microsoft Teams 💼       |
 | **Soft Skills**           | ~Teamwork 🤝     ~Problem-solving 🧩     ~Analytical Skills 📊 |
+------------------------------------------------------------------------------------------------
 
 
-### Skill Proficiency
+### ✅ Skill Proficiency
 ----------------------------------------------
 | Skill                | Proficiency          | 
 |----------------------|---------------------| 
