@@ -23,16 +23,19 @@ I am a passionate Computer Science student at Texas Tech University, with a mino
 ### Soft Skills
 - **Teamwork** 🤝 | **Problem-solving** 🧩 | **Analytical skills** 📊
 
-- 
+
+Copy code
+
 🛠️ **Skills**
-| **Category**              | **Skills**                                                                            |
-|--------------------------|----------------------------------------------------------------------------------------|
-| **Programming Languages** | **Python** 🐍 | **C** 💻 | **JavaScript** 🌐      |
-| **Frameworks**            | **React Native** 📱 | **Flutter** 🌈         |
-| **Web Technologies**      | **HTML** 📄 | **CSS** 🎨                      |
-| **Databases**             | **MySQL** 💾                            |
-| **Tools & Collaboration** | **GitHub** 🛠️ | **Microsoft Teams** 💼       |
-| **Soft Skills**           | **Teamwork** 🤝 | **Problem-solving** 🧩 | **Analytical Skills** 📊 |
+
+| **Category**              | **Skills**                             |
+|--------------------------|----------------------------------------|
+| **Programming Languages** | Python 🐍, C 💻, JavaScript 🌐        |
+| **Frameworks**            | React Native 📱, Flutter 🌈            |
+| **Web Technologies**      | HTML 📄, CSS 🎨                        |
+| **Databases**             | MySQL 💾                              |
+| **Tools & Collaboration** | GitHub 🛠️, Microsoft Teams 💼       |
+| **Soft Skills**           | Teamwork 🤝, Problem-solving 🧩, Analytical Skills 📊 |
 
 
 ### Skill Proficiency
