@@ -2,6 +2,61 @@
 
 I am a passionate Computer Science student at Texas Tech University, with a minor in Mathematics. With a strong GPA of 3.8, I am dedicated to applying my technical skills and creativity to solve complex problems and develop innovative solutions.
 
+<table>
+  <tr>
+    <th>Skill</th>
+    <th>Proficiency</th>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>
+      <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+        <div style="width: 90%; height: 20px; background-color: #4caf50; border-radius: 5px;"></div>
+      </div> 90%
+    </td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>
+      <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+        <div style="width: 80%; height: 20px; background-color: #4caf50; border-radius: 5px;"></div>
+      </div> 80%
+    </td>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>
+      <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+        <div style="width: 95%; height: 20px; background-color: #4caf50; border-radius: 5px;"></div>
+      </div> 95%
+    </td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td>
+      <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+        <div style="width: 85%; height: 20px; background-color: #4caf50; border-radius: 5px;"></div>
+      </div> 85%
+    </td>
+  </tr>
+  <tr>
+    <td>React</td>
+    <td>
+      <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+        <div style="width: 70%; height: 20px; background-color: #4caf50; border-radius: 5px;"></div>
+      </div> 70%
+    </td>
+  </tr>
+  <tr>
+    <td>Node.js</td>
+    <td>
+      <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+        <div style="width: 75%; height: 20px; background-color: #4caf50; border-radius: 5px;"></div>
+      </div> 75%
+    </td>
+  </tr>
+</table>
+
 
 | Skill           | Proficiency                |
 |------------------|---------------------------|
