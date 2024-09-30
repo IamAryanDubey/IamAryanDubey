@@ -3,14 +3,14 @@
 I am a passionate Computer Science student at Texas Tech University, with a minor in Mathematics. With a strong GPA of 3.8, I am dedicated to applying my technical skills and creativity to solve complex problems and develop innovative solutions.
 
 
-| Skill           | Proficiency        |
-|------------------|-------------------|
-| **Python**       | ![Python](https://progress-bar.dev/90)       |
-| **JavaScript**   | ![JavaScript](https://progress-bar.dev/80)   |
-| **HTML**         | ![HTML](https://progress-bar.dev/95)         |
-| **CSS**          | ![CSS](https://progress-bar.dev/85)          |
-| **React**        | ![React](https://progress-bar.dev/70)        |
-| **Node.js**      | ![Node.js](https://progress-bar.dev/75)      |
+| Skill           | Proficiency                |
+|------------------|---------------------------|
+| **Python**       | ██████████████████ 90%     |
+| **JavaScript**   | ████████████████ 80%       |
+| **HTML**         | ██████████████████████ 95% |
+| **CSS**          | ███████████████████ 85%     |
+| **React**        | ███████████████ 70%         |
+| **Node.js**      | ████████████████ 75%        |
 
 
 ## 🎓 Education
