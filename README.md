@@ -37,30 +37,63 @@ I am a passionate Computer Science student at Texas Tech University, with a mino
   - Enriched children's education by teaching calculus and leading successful fundraising initiatives.
 
 ## 🛠️ Skills
-- **Programming Languages:** 
-  - Python 🐍
-  - C 🖥️
-  - JavaScript 🌐
-  
-- **Frameworks:** 
-  - React Native 📱
-  - Flutter 🌈
 
-- **Web Technologies:** 
-  - HTML 📄
-  - CSS 🎨
+### Programming Languages
+- **Python** 🐍
+  - Proficient
+- **C** 💻
+  - Intermediate
+- **JavaScript** 🌐
+  - Proficient
 
-- **Databases:** 
-  - MySQL 💾
+### Frameworks
+- **React Native** 📱
+  - Proficient
+- **Flutter** 🌈
+  - Intermediate
 
-- **Tools:** 
-  - GitHub 🛠️
-  - Microsoft Teams 💼
+### Web Technologies
+- **HTML** 📄
+  - Proficient
+- **CSS** 🎨
+  - Proficient
 
-- **Soft Skills:** 
-  - Teamwork 🤝
-  - Problem-solving 🧩
-  - Analytical skills 📊
+### Databases
+- **MySQL** 💾
+  - Intermediate
+
+### Tools & Collaboration
+- **GitHub** 🛠️
+  - Proficient
+- **Microsoft Teams** 💼
+  - Proficient
+
+### Soft Skills
+- **Teamwork** 🤝
+  - Excellent
+- **Problem-solving** 🧩
+  - Excellent
+- **Analytical skills** 📊
+  - Excellent
+
+### Skill Ratings
+| Skill                | Proficiency Level | 
+|----------------------|-------------------| 
+| Python               | ★★★★★              | 
+| C                    | ★★★★☆             | 
+| JavaScript           | ★★★★★              | 
+| React Native         | ★★★★★              | 
+| Flutter              | ★★★★☆             | 
+| HTML                 | ★★★★★              | 
+| CSS                  | ★★★★★              | 
+| MySQL                | ★★★★☆             | 
+| GitHub               | ★★★★★              | 
+| Microsoft Teams      | ★★★★★              | 
+| Teamwork             | ★★★★★              | 
+| Problem-solving      | ★★★★★              | 
+| Analytical skills    | ★★★★★              | 
+
+
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thisisaryandubey) or check out my projects on [GitHub](https://github.com/IamAryanDubey)!
 
