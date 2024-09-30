@@ -30,12 +30,12 @@ Copy code
 
 | **Category**              | **Skills**                             |
 |--------------------------|----------------------------------------|
-| **Programming Languages** | Python 🐍     C 💻     JavaScript 🌐        |
-| **Frameworks**            | React Native 📱     Flutter 🌈            |
-| **Web Technologies**      | HTML 📄     CSS 🎨                        |
-| **Databases**             | MySQL 💾                              |
-| **Tools & Collaboration** | GitHub 🛠️     Microsoft Teams 💼       |
-| **Soft Skills**           | Teamwork 🤝     Problem-solving 🧩     Analytical Skills 📊 |
+| **Programming Languages** | ~Python 🐍     ~C 💻     ~JavaScript 🌐        |
+| **Frameworks**            | ~React Native 📱     ~Flutter 🌈            |
+| **Web Technologies**      | ~HTML 📄     ~CSS 🎨                        |
+| **Databases**             | ~MySQL 💾                              |
+| **Tools & Collaboration** | ~GitHub 🛠️     ~Microsoft Teams 💼       |
+| **Soft Skills**           | ~Teamwork 🤝     ~Problem-solving 🧩     ~Analytical Skills 📊 |
 
 
 ### Skill Proficiency
