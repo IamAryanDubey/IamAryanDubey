@@ -2,6 +2,17 @@
 
 I am a passionate Computer Science student at Texas Tech University, with a minor in Mathematics. With a strong GPA of 3.8, I am dedicated to applying my technical skills and creativity to solve complex problems and develop innovative solutions.
 
+
+| Skill           | Proficiency        |
+|------------------|-------------------|
+| **Python**       | ![Python](https://progress-bar.dev/90)       |
+| **JavaScript**   | ![JavaScript](https://progress-bar.dev/80)   |
+| **HTML**         | ![HTML](https://progress-bar.dev/95)         |
+| **CSS**          | ![CSS](https://progress-bar.dev/85)          |
+| **React**        | ![React](https://progress-bar.dev/70)        |
+| **Node.js**      | ![Node.js](https://progress-bar.dev/75)      |
+
+
 ## 🎓 Education
 - **Texas Tech University, Lubbock, Texas**  
   Bachelor of Science in Computer Science (Expected Graduation: May 2027)  
@@ -24,9 +35,6 @@ I am a passionate Computer Science student at Texas Tech University, with a mino
 ## 🌱 Involvement
 - **Instructor** at Adhartirth Foundation (August 2022 - Present)
   - Enriched children's education by teaching calculus and leading successful fundraising initiatives.
-
-- **Volunteer** at HackWesTX (September 2023)
-  - Streamlined event logistics and resolved technical challenges for flawless event execution.
 
 ## 🛠️ Skills
 - **Programming Languages:** 
