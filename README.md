@@ -22,6 +22,8 @@ I am a passionate Computer Science student at Texas Tech University, with a mino
 
 ### Soft Skills
 - **Teamwork** 🤝 | **Problem-solving** 🧩 | **Analytical skills** 📊
+
+- 
 🛠️ **Skills**
 | **Category**              | **Skills**                           |
 |--------------------------|--------------------------------------|
@@ -31,17 +33,6 @@ I am a passionate Computer Science student at Texas Tech University, with a mino
 | **Databases**             | MySQL 💾                            |
 | **Tools & Collaboration** | GitHub 🛠️ | Microsoft Teams 💼       |
 | **Soft Skills**           | Teamwork 🤝 | Problem-solving 🧩 | Analytical Skills 📊 |
-
-**Skill Proficiency**
-- **Python:** 90% ██████████
-- **C:** 70% ███████
-- **JavaScript:** 90% ██████████
-- **React Native:** 90% ██████████
-- **Flutter:** 70% ███████
-- **HTML:** 90% ██████████
-- **CSS:** 90% ██████████
-- **MySQL:** 70% ███████
-
 
 
 ### Skill Proficiency
