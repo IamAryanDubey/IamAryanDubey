@@ -26,6 +26,7 @@ I am a passionate Computer Science student at Texas Tech University, with a mino
 
 
 ### Skill Proficiency
+----------------------------------------------
 | Skill                | Proficiency          | 
 |----------------------|---------------------| 
 | Python               | ██████████ 90%      | 
@@ -36,11 +37,7 @@ I am a passionate Computer Science student at Texas Tech University, with a mino
 | HTML                 | ██████████ 90%      | 
 | CSS                  | ██████████ 90%      | 
 | MySQL                | ███████ 70%         | 
-| GitHub               | ██████████ 90%      | 
-| Microsoft Teams      | ██████████ 90%      | 
-| Teamwork             | ██████████ 90%      | 
-| Problem-solving      | ██████████ 90%      | 
-| Analytical skills    | ██████████ 90%      | 
+----------------------------------------------
 
 
 ## 🎓 Education
