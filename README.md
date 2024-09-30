@@ -30,7 +30,7 @@ Copy code
 
 | **Category**              | **Skills**                             |
 |--------------------------|----------------------------------------|
-| **Programming Languages** | Python 🐍, C 💻, JavaScript 🌐        |
+| **Programming Languages** | Python 🐍 | C 💻 | JavaScript 🌐        |
 | **Frameworks**            | React Native 📱, Flutter 🌈            |
 | **Web Technologies**      | HTML 📄, CSS 🎨                        |
 | **Databases**             | MySQL 💾                              |
