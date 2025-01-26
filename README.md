@@ -9,9 +9,9 @@ I am a passionate Computer Science student at Texas Tech University, with a mino
 | **Category**                | **Skills**                               |
 |--------------------------|----------------------------------------|
 | **Programming Languages** | ~Python 🐍     ~C 💻     ~JavaScript 🌐        |
-| **Frameworks**            | ~React Native 📱     ~Flutter 🌈            |
-| **Web Technologies**      | ~HTML 📄     ~CSS 🎨                        |
-| **Databases**             | ~MySQL 💾                              |
+| **Frameworks**            | ~React Native 📱     ~Flutter 🌈      ~NextJS ⭑           |
+| **Web Technologies**      | ~HTML 📄     ~CSS 🎨   ~ReactJS        ~NodeJS       ~ExpressJS         |
+| **Databases**             | ~MySQL 💾       ~MongoDB 🗄️                       |
 | **Tools & Collaboration** | ~GitHub 🛠️     ~Microsoft Teams 💼       |
 | **Soft Skills**           | ~Teamwork 🤝     ~Problem-solving 🧩     ~Analytical Skills 📊 |
 ------------------------------------------------------------------------------------------------
@@ -24,7 +24,12 @@ I am a passionate Computer Science student at Texas Tech University, with a mino
 | Python               | ██████████ 90%      | 
 | C                    | ███████ 70%         | 
 | JavaScript           | ██████████ 90%      | 
-| React Native         | ██████████ 90%      | 
+| ReactJS              | ██████████ 90%      | 
+| NextJS               | ██████████ 90%      | 
+| NodeJS               | ██████████ 90%      | 
+| ExpressJS            | ████████ 70%      | 
+| MongoDB              | ██████████ 90%      | 
+| React Native         | █████████ 80%      | 
 | Flutter              | ███████ 70%         | 
 | HTML                 | ██████████ 90%      | 
 | CSS                  | ██████████ 90%      | 
